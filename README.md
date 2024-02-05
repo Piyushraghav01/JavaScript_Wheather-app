@@ -1,1 +1,1 @@
-# JavaScript_Wheather-app_Basic project .
+# JavaScript_Wheather-app_Basic-project .
